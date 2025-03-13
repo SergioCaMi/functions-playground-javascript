@@ -7,10 +7,10 @@ function isPositive(num) {
 }
 
 /**
- * 1. ¿Que nombre tiene esta función?
- * 2. ¿Que deberíamos escribir para ejecutar esta función?
- * 3. ¿Qué tipo de datos devuelve esta función? ¿Un string, un number o un boolean?
- * 4. El código de abajo usa la función isPositve. ¿La usa adecuadamente? ¿Por qué?
+ * 1. ¿Que nombre tiene esta función? isPositive()
+ * 2. ¿Que deberíamos escribir para ejecutar esta función? invocarla con su nombre
+ * 3. ¿Qué tipo de datos devuelve esta función? ¿Un string, un number o un boolean? booleana
+ * 4. El código de abajo usa la función isPositve. ¿La usa adecuadamente? ¿Por qué? La usa del revés porque lo que evalúa es si el número envíado como parámetro es mayor que 0
  */
 
 let x = 4;

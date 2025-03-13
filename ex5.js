@@ -13,3 +13,5 @@ function rollDice() {
  */
 
 // Tu código a partir de aquí
+
+console.log(rollDice()+rollDice());
